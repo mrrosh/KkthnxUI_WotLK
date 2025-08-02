@@ -160,7 +160,7 @@ end
 function EnhancedFrames_TargetFrame_Update(self)
 	-- Set back color of health bar
 	--if (not UnitPlayerControlled(self.unit) and UnitIsTapDenied(self.unit)) then
-	if (not UnitPlayerControlled(self.unit)) then
+	if (not UnitPlayerControlled(self.unit) and UnitIsTapDenied(self.unit)) then
 		-- Gray if npc is tapped by other player
 		self.healthbar:SetStatusBarColor(0.5, 0.5, 0.5)
 	end
