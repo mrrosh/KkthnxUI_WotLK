@@ -9,17 +9,9 @@ It can be used for any class or role.
 * Also, make sure the game is closed when moving new files into the addon directory as it is unable to discover new files when it's already running.
 
 ### F.A.Q   
-* All questions, suggestions, and bugs can be directed to me in-game or in a issues report too [Issue Report](https://github.com/Kkthnx/KkthnxUI_WotLK/issues/new)      
 * Once the UI reloads off the install, you can type **/settings** or **/settings all** if you prefer all the settings for addon profiles.   
 * You can type /moveui and move certain features of the UI. More to come later.    
-* If you find a bug, then properly make an [Issue Report](https://github.com/Kkthnx/KkthnxUI_WotLK/issues/new).   
-
-### Donations   
-Donations are welcome, but not required to use the UI at all. Donations help me further my development and fuel my gaming! Donations will never be a requirement! If you would like to donate, you can do so here
-
-* PayPal Me: [Kkthnx PayPal.Me](https://www.paypal.me/kkthnx)
-* PayPal: [KkthnxUI PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XC5463FDLTKSE&lc=US&item_name=KkthnxUI&item_number=55846984&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) (click to go straight to PayPal)   
-* Patreon: [Support on Patreon](https://www.patreon.com/kkthnx)  
+* If you find a bug, then properly make an [Issue Report](https://github.com/mrrosh/KkthnxUI_WotLK/issues/new).   
 
 ### Credits   
 ALZA, AcidWeb, Aezay, Affli, Ailae, Allez, Ammo, Astromech, Beoko, Bitbyte, Blamdarot, Bozo, Bunny67, Caellian, Califpornia, Camealion, Chiril, CrusaderHeimdall, Cybey, Dawn, Don Kaban, Dridzt, Duffed, Durcyn, Eclipse, Egingell, Elv22, Evilpaul, Evl, Favorit, Fernir, Foof, Freebaser, freesay, Gorlasch, Gsuz, Haleth, Haste, Hoochie, Hungtar, HyPeRnIcS, Hydra, Ildyria, Jaslm, Karl_w_w, Karudon, Katae, Kellett, Kemayo, Killakhan, Kraftman, Kunda, Leatrix, Magdain, Magicnachos, Meurtcriss, Monolit, MrRuben5, Myrilandell of Lothar, Nathanyel, Nefarion, Nightcracker, Nils Ruesch, Partha, Phanx, Rahanprout, Renstrom, RustamIrzaev, SDPhantom, Safturento, Sara.Festung, Sildor, Silverwind, SinaC, Slakah, Soeters, Starlon, Suicidal Katt, Syzgyn, Tekkub, Telroth, Thalyra, Thizzelle, Tia Lynn, Tohveli, Tukz, Tuller, Veev, Villiv, Wetxius, Woffle of Dark Iron, Wrug, Xuerian, Yleaf, Zork, g0st, gi2k15, iSpawnAtHome, m2jest1c, p3lim, sticklord   
