@@ -68,9 +68,11 @@ local function SetChatStyle(frame)
 	editbox:SetPoint("BOTTOMLEFT", ChatFrame1, "TOPLEFT", -4, 23)
 	editbox:SetPoint("BOTTOMRIGHT", ChatFrame1, "TOPRIGHT", 4, 23)
 
-	-- Hide textures
-	for i = 1, #CHAT_FRAME_TEXTURES do
-		_G[framename..CHAT_FRAME_TEXTURES[i]]:SetTexture(nil)
+	-- Hide textures if enabled in config
+	if C.Chat.HideTextures == true then
+		for i = 1, #CHAT_FRAME_TEXTURES do
+			_G[framename..CHAT_FRAME_TEXTURES[i]]:SetTexture(nil)
+		end
 	end
 
 	-- Removes Default ChatFrame Tabs texture

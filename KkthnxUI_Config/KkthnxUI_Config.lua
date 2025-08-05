@@ -124,6 +124,7 @@ local function Local(o)
 	if o == "UIConfigChatTabsOutline" then o = L_GUI_CHAT_TABS_OUTLINE end
 	if o == "UIConfigChatWhispSound" then o = L_GUI_CHAT_WHISP end
 	if o == "UIConfigChatWidth" then o = L_GUI_CHAT_WIDTH end
+	if o == "UIConfigChatHideTextures" then o = L_GUI_CHAT_HIDE_TEXTURES end
 	-- Cooldown Settings
 	if o == "UIConfigCooldown" then o = L_GUI_COOLDOWN end
 	if o == "UIConfigCooldownEnable" then o = L_GUI_COOLDOWN_ENABLE end
@@ -232,6 +233,7 @@ local function Local(o)
 	if o == "UIConfigSkinsWeakAuras" then o = L_GUI_SKINS_WEAKAURAS end
 	if o == "UIConfigSkinsWorldMap" then o = L_GUI_SKINS_WORLDMAP end
 	-- Tooltip Settings
+	if o == "UIConfigTooltipScale" then o = L_GUI_TOOLTIP_SCALE end
 	if o == "UIConfigTooltip" then o = L_GUI_TOOLTIP end
 	if o == "UIConfigTooltipAchievements" then o = L_GUI_TOOLTIP_ACHIEVEMENTS end
 	if o == "UIConfigTooltipArenaExperience" then o = L_GUI_TOOLTIP_ARENA_EXPERIENCE end

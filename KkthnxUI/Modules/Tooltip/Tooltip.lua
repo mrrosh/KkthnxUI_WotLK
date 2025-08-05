@@ -390,6 +390,7 @@ Tooltip:RegisterEvent("PLAYER_ENTERING_WORLD")
 Tooltip:SetScript("OnEvent", function(self)
 	for _, tt in pairs(Tooltips) do
 		tt:SetBackdrop(K.Backdrop)
+		tt:SetScale(C.Tooltip.Scale)
 		tt:HookScript("OnShow", SetStyle)
 	end
 

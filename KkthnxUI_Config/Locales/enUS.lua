@@ -67,6 +67,7 @@ L_GUI_AURA_CLASSCOLOR_BORDER = "Enable classcolor border for player buffs"
 -- GUI Buttons Localization
 L_GUI_BUTTON_RESET = "Total Reset UI"
 -- Chat Localization
+L_GUI_CHAT_HIDE_TEXTURES = "Hide chat background"
 L_GUI_CHAT_CL_TAB = "Show Combat Log tab"
 L_GUI_CHAT_DAMAGE_METER_SPAM = "Merge damage meter spam in one line-link"
 L_GUI_CHAT_ENABLE = "Enable chat"
@@ -192,6 +193,7 @@ L_GUI_SKINS_WEAKAURAS = "Enable styling Weakauras"
 L_GUI_SKINS_WORLDMAP = "Enable styling Worldmap"
 -- Tooltip Localization
 L_GUI_TOOLTIP = "Tooltip"
+L_GUI_TOOLTIP_SCALE = "Scale the tooltip"
 L_GUI_TOOLTIP_ACHIEVEMENTS = "Comparing achievements in tooltip"
 L_GUI_TOOLTIP_ARENA_EXPERIENCE = "Player PvP experience in arena"
 L_GUI_TOOLTIP_CURSOR = "Tooltip above cursor"

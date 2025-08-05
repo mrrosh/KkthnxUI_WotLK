@@ -93,6 +93,7 @@ C["Aura"] = {
 }
 -- Chat Options
 C["Chat"] = {
+	["HideTextures"] = true,
 	["CombatLog"] = true,
 	["DamageMeterSpam"] = false,
 	["Enable"] = true,
@@ -226,6 +227,7 @@ C["Skins"] = {
 }
 -- Tooltip Options
 C["Tooltip"] = {
+	["Scale"] = 1,
 	["Achievements"] = false,
 	["ArenaExperience"] = false,
 	["Cursor"] = false,

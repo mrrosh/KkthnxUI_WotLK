@@ -77,6 +77,7 @@ L_GUI_AURA_CLASSCOLOR_BORDER = "Окрашивать границы иконок
 L_GUI_BUTTON_RESET = "Общий сброс UI"
 -- Chat Localization
 L_GUI_CHAT = "Чат"
+L_GUI_CHAT_HIDE_TEXTURES = "Скрыть фон чата."
 L_GUI_CHAT_FADE_TIME = "Время, после которого строки в чате начинают исчезать:"
 L_GUI_CHAT_CL_TAB = "Показать вкладку Журнал."
 L_GUI_CHAT_ENABLE = "Включить чат."
@@ -221,6 +222,7 @@ L_GUI_SKINS_WEAKAURAS = "Включить скин Weakauras."
 L_GUI_SKINS_WORLDMAP = "Включить стилизацию карты."
 -- Tooltip Localization
 L_GUI_TOOLTIP = "Подсказка"
+L_GUI_TOOLTIP_SCALE = "Масштаб подсказки."
 L_GUI_TOOLTIP_ENABLE = "Включить подсказку."
 L_GUI_TOOLTIP_SHIFT = "Показывать подсказку при нажатом Shift."
 L_GUI_TOOLTIP_CURSOR = "Привязать подсказку к курсору мыши."
